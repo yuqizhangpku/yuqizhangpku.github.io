@@ -8,11 +8,11 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      'Alice was beginning to get very tired of sitting by her sister on the bank.',
+      'Ever since the day Tom Ballard had introduced Takashima to her, he had been with her almost constantly.',
   'example2':
-      'Buda-Pesth seems a wonderful place.',
+      'None of these names, however, had any historical signification, so that it still remains a mystery what the native name for the primitive civilizers of the Nile valley was.',
   'example3':
-      'Scepticism was as much the result of knowledge, as knowledge is of scepticism.'      
+      'In the Eastern district the Greenlanders erected a town, to which they gave the name of Garde, where, according to Peyrere, who refers to the Chronicle, the Norwegians established a sort of emporium for the deposit and sale of their merchandize.'      
 };
 
 function status(statusText) {
